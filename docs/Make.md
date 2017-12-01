@@ -1422,7 +1422,7 @@ $xml = $nfe->getXML();
 Este método retorna o numero da chave da NFe
 
 ```php
-$chave = $nfe->geChave();
+$chave = $nfe->getChave();
 ```
 
 ### function getModelo():int
